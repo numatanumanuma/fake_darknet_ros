@@ -1,0 +1,5 @@
+<launch>
+   <node name="fake_darknet_ros" pkg="fake_darknet_ros" type="fake_darknet_ros" output="screen">
+      <param name="filename" value="$(find fake_darknet_ros)/config/yolo_result.txt"/>
+   </node>
+</launch>

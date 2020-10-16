@@ -1,0 +1,6 @@
+mask,0.9
+mask,0.8
+nomask,0.8
+---
+mask,0.9
+---
